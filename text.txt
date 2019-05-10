@@ -1,0 +1,3 @@
+เว็บไซต์ที่ต้องดู
+https://github.com/andresarmento/modbus-arduino
+https://www.trihedral.com/free-scada-software
