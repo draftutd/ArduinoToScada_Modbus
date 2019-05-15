@@ -2,9 +2,9 @@
 #include <Ethernet.h>
 #include <Modbus.h>
 #include <ModbusIP.h>
-const int SENSOR_IREG1 = 4000;
-const int SENSOR_IREG2 = 4001;
-const int SENSOR_IREG3 = 4002;
+const int SENSOR_IREG1 = 100;
+const int SENSOR_IREG2 = 101;
+const int SENSOR_IREG3 = 102;
 const int sensorPin = A0;
 ModbusIP mb;
 long ts;
